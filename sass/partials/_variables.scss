@@ -1,12 +1,52 @@
 $prefix: "../img/";
-$img__comingsoon: $prefix+"comingsoon.jpg"; 
-$img__error: $prefix+"error.jpg"; 
-$img__privacy: $prefix+"privacy.jpg"; 
+$bg__blog-img: 
+    $prefix+"blog/blog-s1.jpg",
+    $prefix+"blog/blog-s2.jpg";
+$bg__coming-img: $prefix+"comingsoon.jpg"; 
+$bg__contact-img: 
+    $prefix+"contact/contact-s1.jpg",
+    $prefix+"contact/contact-s2.jpg",
+    $prefix+"contact/contact-s3.jpg";
+$bg__dentists-img: 
+    $prefix+"dentists/dentists-s1.jpg",
+    $prefix+"dentists/dentists-s2.jpg";
+$bg__error-img: $prefix+"error.jpg"; 
+$bg__index-img: 
+    $prefix+"index/index-s1.jpg",
+    $prefix+"index/index-s2.jpg",
+    $prefix+"index/index-s3.jpg",
+    $prefix+"index/index-s4.jpg",
+    $prefix+"index/index-s5.jpg",
+    $prefix+"index/index-s6.jpg";
+$bg__privacy-img: $prefix+"privacy.jpg";
+$bg__services-img: 
+    $prefix+"services/services-s1.jpg",
+    $prefix+"services/services-s2.jpg",
+    $prefix+"services/services-s3.jpg",
+    $prefix+"services/services-s4.jpg",
+    $prefix+"services/services-s5.jpg",
+    $prefix+"services/services-s6.jpg"; 
+$bg__user-img: $prefix+"user/user-s1.jpg";
 $section__classes:
+    "blog",
     "comingsoon",
+    "contact",
+    "dentists",
     "error",
-    "privacy";
+    "index",
+    "privacy",
+    "services",
+    "user";
 $section__images:
-    $img__comingsoon,
-    $img__error,
-    $img__privacy;
+    $bg__blog-img,
+    $bg__coming-img,
+    $bg__contact-img,
+    $bg__dentists-img,
+    $bg__error-img,
+    $bg__index-img,
+    $bg__privacy-img,
+    $bg__services-img,
+    $bg__user-img;
+$color__shadow: #333;
+$footer__height: 41px;
+$text-shadow: 1px 1px 3px $color__shadow; 
