@@ -9,9 +9,72 @@ body, html {
 }
 
 /* line 31, ../sass/partials/_mixins.scss */
+.blog-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/blog/blog-s1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.blog-s2 {
+  background-attachment: scroll;
+  background-image: url(../img/blog/blog-s2.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
 .comingsoon-s1 {
   background-attachment: scroll;
   background-image: url(../img/comingsoon.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.contact-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/contact/contact-s1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.contact-s2 {
+  background-attachment: scroll;
+  background-image: url(../img/contact/contact-s2.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.contact-s3 {
+  background-attachment: scroll;
+  background-image: url(../img/contact/contact-s3.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.dentists-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/dentists/dentists-s1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.dentists-s2 {
+  background-attachment: scroll;
+  background-image: url(../img/dentists/dentists-s2.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,9 +90,126 @@ body, html {
 }
 
 /* line 31, ../sass/partials/_mixins.scss */
+.index-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.index-s2 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s2.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.index-s3 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s3.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.index-s4 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s4.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.index-s5 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s5.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.index-s6 {
+  background-attachment: scroll;
+  background-image: url(../img/index/index-s6.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
 .privacy-s1 {
   background-attachment: scroll;
   background-image: url(../img/privacy.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s1.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s2 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s2.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s3 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s3.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s4 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s4.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s5 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s5.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.services-s6 {
+  background-attachment: scroll;
+  background-image: url(../img/services/services-s6.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* line 31, ../sass/partials/_mixins.scss */
+.user-s1 {
+  background-attachment: scroll;
+  background-image: url(../img/user/user-s1.jpg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: cover;
@@ -40,6 +220,107 @@ body, html {
   background-blend-mode: multiply;
 }
 
+/* line 9, ../sass/partials/_modules.scss */
+.contact-s3 {
+  background-color: #999 !important;
+  background-blend-mode: multiply !important;
+}
+
+/* line 15, ../sass/partials/_modules.scss */
+.dentists-s1, .blog-s1, .contact-s1 {
+  background-position: center !important;
+}
+
+/* line 20, ../sass/partials/_modules.scss */
+.index-s1 {
+  background-position: center !important;
+}
+/* line 23, ../sass/partials/_modules.scss */
+.index-s6 {
+  background-color: #999 !important;
+  background-blend-mode: multiply !important;
+}
+
+/* line 29, ../sass/partials/_modules.scss */
+.services-s6 {
+  background-color: #999 !important;
+  background-blend-mode: multiply !important;
+}
+
+/* line 35, ../sass/partials/_modules.scss */
+.text-shadow {
+  text-shadow: 1px 1px 3px #333;
+}
+
+/* line 39, ../sass/partials/_modules.scss */
+header {
+  z-index: 10;
+}
+
+/* line 42, ../sass/partials/_modules.scss */
+textarea {
+  resize: none;
+}
+
+@media all and (max-width: 767px) {
+  /* line 48, ../sass/partials/_modules.scss */
+  .contact-s1, .contact-s2 {
+    background-color: #999 !important;
+    background-blend-mode: multiply !important;
+    text-shadow: 1px 1px 3px #333;
+  }
+  /* line 49, ../sass/partials/_modules.scss */
+  .contact-s1 *, .contact-s2 * {
+    color: #fff !important;
+  }
+
+  /* line 58, ../sass/partials/_modules.scss */
+  .dentists-s1, .blog-s1 {
+    background-color: #999 !important;
+    background-blend-mode: multiply !important;
+    text-shadow: 1px 1px 3px #333;
+  }
+  /* line 59, ../sass/partials/_modules.scss */
+  .dentists-s1 *, .blog-s1 * {
+    color: #fff !important;
+  }
+
+  /* line 68, ../sass/partials/_modules.scss */
+  .index-s1, .index-s2, .index-s3, .index-s4, .index-s5, .index-s6, .services-s1, .services-s2, .services-s3, .services-s4, .services-s5, .services-s6 {
+    background-color: #999 !important;
+    background-blend-mode: multiply !important;
+    text-shadow: 1px 1px 3px #333;
+  }
+  /* line 69, ../sass/partials/_modules.scss */
+  .index-s1 *, .index-s2 *, .index-s3 *, .index-s4 *, .index-s5 *, .index-s6 *, .services-s1 *, .services-s2 *, .services-s3 *, .services-s4 *, .services-s5 *, .services-s6 * {
+    color: #fff !important;
+  }
+  /* line 76, ../sass/partials/_modules.scss */
+  .index-s5, .services-s5 {
+    background-position: right !important;
+  }
+
+  /* line 81, ../sass/partials/_modules.scss */
+  .navbar-nav {
+    background-color: #999 !important;
+    border: 1px solid #666 !important;
+    color: #333 !important;
+    padding: 10px;
+  }
+  /* line 82, ../sass/partials/_modules.scss */
+  .navbar-nav *:hover {
+    opacity: 0.8;
+  }
+
+  /* line 92, ../sass/partials/_modules.scss */
+  .services-s4 {
+    background-position: right !important;
+  }
+  /* line 95, ../sass/partials/_modules.scss */
+  .services-s5 {
+    background-position: left !important;
+  }
+}
 /* line 2, ../sass/partials/_minh.scss */
 .minh-auto {
   min-height: auto;
